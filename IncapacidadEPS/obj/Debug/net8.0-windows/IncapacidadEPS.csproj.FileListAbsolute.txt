@@ -1,0 +1,33 @@
+C:\Users\Angel\Documents\Visual Studio\VS\IncapacidadEPS\IncapacidadEPS\bin\Debug\net8.0-windows\IncapacidadEPS.exe
+C:\Users\Angel\Documents\Visual Studio\VS\IncapacidadEPS\IncapacidadEPS\bin\Debug\net8.0-windows\IncapacidadEPS.deps.json
+C:\Users\Angel\Documents\Visual Studio\VS\IncapacidadEPS\IncapacidadEPS\bin\Debug\net8.0-windows\IncapacidadEPS.runtimeconfig.json
+C:\Users\Angel\Documents\Visual Studio\VS\IncapacidadEPS\IncapacidadEPS\bin\Debug\net8.0-windows\IncapacidadEPS.dll
+C:\Users\Angel\Documents\Visual Studio\VS\IncapacidadEPS\IncapacidadEPS\bin\Debug\net8.0-windows\IncapacidadEPS.pdb
+C:\Users\Angel\Documents\Visual Studio\VS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\IncapacidadEPS.Views.IncapacidadEPS.resources
+C:\Users\Angel\Documents\Visual Studio\VS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\IncapacidadEPS.csproj.GenerateResource.cache
+C:\Users\Angel\Documents\Visual Studio\VS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\IncapacidadEPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Documents\Visual Studio\VS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\IncapacidadEPS.AssemblyInfoInputs.cache
+C:\Users\Angel\Documents\Visual Studio\VS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\IncapacidadEPS.AssemblyInfo.cs
+C:\Users\Angel\Documents\Visual Studio\VS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\IncapacidadEPS.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\Visual Studio\VS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\IncapacidadEPS.dll
+C:\Users\Angel\Documents\Visual Studio\VS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\refint\IncapacidadEPS.dll
+C:\Users\Angel\Documents\Visual Studio\VS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\IncapacidadEPS.pdb
+C:\Users\Angel\Documents\Visual Studio\VS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\IncapacidadEPS.genruntimeconfig.cache
+C:\Users\Angel\Documents\Visual Studio\VS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\ref\IncapacidadEPS.dll
+C:\Users\Administrador\Downloads\IncapacidadEPS\IncapacidadEPS\IncapacidadEPS\bin\Debug\net8.0-windows\IncapacidadEPS.exe
+C:\Users\Administrador\Downloads\IncapacidadEPS\IncapacidadEPS\IncapacidadEPS\bin\Debug\net8.0-windows\IncapacidadEPS.deps.json
+C:\Users\Administrador\Downloads\IncapacidadEPS\IncapacidadEPS\IncapacidadEPS\bin\Debug\net8.0-windows\IncapacidadEPS.runtimeconfig.json
+C:\Users\Administrador\Downloads\IncapacidadEPS\IncapacidadEPS\IncapacidadEPS\bin\Debug\net8.0-windows\IncapacidadEPS.dll
+C:\Users\Administrador\Downloads\IncapacidadEPS\IncapacidadEPS\IncapacidadEPS\bin\Debug\net8.0-windows\IncapacidadEPS.pdb
+C:\Users\Administrador\Downloads\IncapacidadEPS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\IncapacidadEPS.Views.IncapacidadEPS.resources
+C:\Users\Administrador\Downloads\IncapacidadEPS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\IncapacidadEPS.csproj.GenerateResource.cache
+C:\Users\Administrador\Downloads\IncapacidadEPS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\IncapacidadEPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Downloads\IncapacidadEPS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\IncapacidadEPS.AssemblyInfoInputs.cache
+C:\Users\Administrador\Downloads\IncapacidadEPS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\IncapacidadEPS.AssemblyInfo.cs
+C:\Users\Administrador\Downloads\IncapacidadEPS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\IncapacidadEPS.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\IncapacidadEPS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\IncapacidadEPS.sourcelink.json
+C:\Users\Administrador\Downloads\IncapacidadEPS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\IncapacidadEPS.dll
+C:\Users\Administrador\Downloads\IncapacidadEPS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\refint\IncapacidadEPS.dll
+C:\Users\Administrador\Downloads\IncapacidadEPS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\IncapacidadEPS.pdb
+C:\Users\Administrador\Downloads\IncapacidadEPS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\IncapacidadEPS.genruntimeconfig.cache
+C:\Users\Administrador\Downloads\IncapacidadEPS\IncapacidadEPS\IncapacidadEPS\obj\Debug\net8.0-windows\ref\IncapacidadEPS.dll

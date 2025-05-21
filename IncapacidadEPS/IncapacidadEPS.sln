@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncapacidadEPS", "IncapacidadEPS.csproj", "{8406930D-6833-471D-A1B7-E0F6A4552DFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8406930D-6833-471D-A1B7-E0F6A4552DFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8406930D-6833-471D-A1B7-E0F6A4552DFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8406930D-6833-471D-A1B7-E0F6A4552DFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8406930D-6833-471D-A1B7-E0F6A4552DFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25345297-B991-42A2-B493-46003E0FE4C6}
+	EndGlobalSection
+EndGlobal
